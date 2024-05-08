@@ -1,5 +1,5 @@
 # Planner
-Planner is a open source, multi platform, personal time management app that used markdown to store information.
+Planner is an open source, cross-platform, personal time management application that uses markdown to store information.
 
 ## Features
 - Timetable
@@ -10,4 +10,4 @@ Planner is a open source, multi platform, personal time management app that used
 
 and much more ...
 
-**Note that this app is still under development**
+**Note that this application is still under development**
